@@ -1,3 +1,5 @@
+我的世界网易版 MCDevTool 中 mcdk Modpc 开发测试启动器
+
 原地址：https://github.com/GitHub-Zero123/MCDevTool
 
 越来越多的人开始使用macOS进行开发，但我发现原版 mcdk 只支持windows系统，所以我开发了一款用rust写的mcdk，适用于跨平台测试和开发。
